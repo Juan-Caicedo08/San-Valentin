@@ -1,24 +1,11 @@
-# ¡Quieres ser mi San Valentín! 💖
-¡Hola! Soy [Mabel Olivera - @mabelolivera10]() y estoy encantada de conocerte.
+# Para mi pandita 🐼💖
 
-## Acerca de mí👀
-Soy una persona apasionada por mi profesión, con una excelente capacidad de organización y facilidad para trabajar en equipo. Me considero altamente adaptable a diferentes entornos y siempre enfocada en alcanzar objetivos. Además, poseo conocimientos en diversos lenguajes de programación como Java, Visual.NET, PHP, entre otros. Tengo un gran interés en el desarrollo de software y el análisis de sistemas.
+Hice esto pensando en ti,  
+en tu sonrisa, en tu ternura  
+y en lo bonito que es compartir contigo.
 
-🌱 Actualmente, estoy enfocada en seguir aprendiendo y mejorando mis habilidades en distintos lenguajes de programación.
+No es solo una pregunta,  
+es una invitación a regalarnos  
+un día hermoso, sin prisas, con risas.
 
-## Colaboración💞
-Estoy interesada en colaborar contigo en proyectos emocionantes y desafiantes. ¡Juntos podemos lograr grandes cosas!
-
-## Contacto 📫
-Puedes encontrarme en mis redes sociales:
-
-- [Facebook](https://www.facebook.com/mabelquispeolivera/)
-- [Instagram](https://www.instagram.com/mabelolivera10/)
-- [TikTok](https://www.tiktok.com/@encodedmabel)
-- [YouTube](https://www.youtube.com/@encodedmabel)
-- [LinkedIn](https://www.linkedin.com/in/mabelquispeolivera/)
-- [Twitter](https://twitter.com/mabel_Q_O)
-- [CodeOpen](https://codepen.io/mabelolivera10)
-- [Sitio Web](https://encoded.pe/)
-
-¡Espero poder conectarme contigo pronto y colaborar en futuros proyectos! 😊
+¿Quieres ser mi San Valentín? 💘
